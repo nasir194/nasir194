@@ -22,7 +22,7 @@ I aspire to build my career as a dedicated **SQA Engineer**, leveraging a strong
 
 ## 🚀 Featured Projects  
 
-- 🔹 [API Testing with Postman](#) – Designed and executed REST API test collections with automated assertions.  
+- 🔹 [API Testing with Postman](https://github.com/nasir194/Postman_API_Testing) – Designed and executed REST API test collections with automated assertions.  
 - 🔹 [Manual Test Case Repository](#) – Collection of functional and regression test cases with detailed bug reports.  
 
 
